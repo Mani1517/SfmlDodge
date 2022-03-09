@@ -18,3 +18,6 @@ Arch = sudo pacman install sfml
 
 Step: 2 -> "make linux" in Cmd.  
 Step: 3 -> Get the Executable in bin/linux  
+
+# Others
+You can restart the game using "R" after losing on lives
