@@ -10,6 +10,11 @@ Step: 3 -> Get the Executable in bin/win32
 
 # Linux
 
-Step: 1 -> Clone the repo.  
+Step: 1 -> Clone the repo.
+Step: 2 -> Install SFML on your linux Distro
+
+Ubuntu = sudo apt install libsfml-dev
+Arch = sudo pacman install sfml
+
 Step: 2 -> "make linux" in Cmd.  
 Step: 3 -> Get the Executable in bin/linux  
